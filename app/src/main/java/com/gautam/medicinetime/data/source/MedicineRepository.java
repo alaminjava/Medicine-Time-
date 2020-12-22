@@ -4,9 +4,7 @@ import androidx.annotation.NonNull;
 
 import java.util.List;
 
-/**
- * Created by gautam on 13/07/17.
- */
+
 
 public class MedicineRepository implements MedicineDataSource {
 
